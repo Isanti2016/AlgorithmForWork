@@ -1,0 +1,5 @@
+﻿  CRCVerify.cpp
+g:\c++\crcverify\crcverify\crcverify.cpp(10): warning C4838: 从“int”转换到“char”需要收缩转换
+g:\c++\crcverify\crcverify\crcverify.cpp(10): warning C4305: “初始化”: 从“int”到“char”截断
+g:\c++\crcverify\crcverify\crcverify.cpp(10): warning C4309: “初始化”: 截断常量值
+  CRCVerify.vcxproj -> G:\C++\CRCVerify\Debug\CRCVerify.exe
